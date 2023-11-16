@@ -24,8 +24,7 @@
 <h3 align="left">Languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mottalibhassan&show_icons=true&locale=en&layout=compact" alt="mottalibhassan" /></p>
 
-<h3 align="left">Contributions:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mottalibhassan&" alt="mottalibhassan" /></p>
+
 
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mottalibhassan&show_icons=true&locale=en" alt="mottalibhassan" /></p>
