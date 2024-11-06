@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mottalibhassan" alt="mottalibhassan" /></a> </p>
 
-- 🔭 I’m currently Study on Computer Science for 2nd Semester [https://barishalpoly.gov.bd/](https://barishalpoly.gov.bd/)
+- 🔭 I’m currently Study on Computer Science for 2nd Semester [https://PabnaPolytechnic.gov.bd/](https://ppi.pabna.gov.bd/)
 
 - 🌱 I’m currently learning **Python,Java**
 
